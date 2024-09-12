@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tatumjolink/tatumjolink.github.io/static/css/main.1e4098ab.css",
-    "main.js": "/tatumjolink/tatumjolink.github.io/static/js/main.0a43975f.js",
-    "static/js/453.253ccfac.chunk.js": "/tatumjolink/tatumjolink.github.io/static/js/453.253ccfac.chunk.js",
-    "index.html": "/tatumjolink/tatumjolink.github.io/index.html",
-    "main.1e4098ab.css.map": "/tatumjolink/tatumjolink.github.io/static/css/main.1e4098ab.css.map",
-    "main.0a43975f.js.map": "/tatumjolink/tatumjolink.github.io/static/js/main.0a43975f.js.map",
-    "453.253ccfac.chunk.js.map": "/tatumjolink/tatumjolink.github.io/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/static/css/main.1e4098ab.css",
+    "main.js": "/static/js/main.5f711e49.js",
+    "static/js/453.253ccfac.chunk.js": "/static/js/453.253ccfac.chunk.js",
+    "index.html": "/index.html",
+    "main.1e4098ab.css.map": "/static/css/main.1e4098ab.css.map",
+    "main.5f711e49.js.map": "/static/js/main.5f711e49.js.map",
+    "453.253ccfac.chunk.js.map": "/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e4098ab.css",
-    "static/js/main.0a43975f.js"
+    "static/js/main.5f711e49.js"
   ]
 }

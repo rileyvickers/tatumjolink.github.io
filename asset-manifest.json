@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rileyvickers/tatumjolink.github.io/static/css/main.2c185868.css",
-    "main.js": "/rileyvickers/tatumjolink.github.io/static/js/main.43fb6135.js",
-    "static/js/453.253ccfac.chunk.js": "/rileyvickers/tatumjolink.github.io/static/js/453.253ccfac.chunk.js",
-    "index.html": "/rileyvickers/tatumjolink.github.io/index.html",
-    "main.2c185868.css.map": "/rileyvickers/tatumjolink.github.io/static/css/main.2c185868.css.map",
-    "main.43fb6135.js.map": "/rileyvickers/tatumjolink.github.io/static/js/main.43fb6135.js.map",
-    "453.253ccfac.chunk.js.map": "/rileyvickers/tatumjolink.github.io/static/js/453.253ccfac.chunk.js.map"
+    "main.css": "/tatumjolink/tatumjolink.github.io/static/css/main.1e4098ab.css",
+    "main.js": "/tatumjolink/tatumjolink.github.io/static/js/main.0a43975f.js",
+    "static/js/453.253ccfac.chunk.js": "/tatumjolink/tatumjolink.github.io/static/js/453.253ccfac.chunk.js",
+    "index.html": "/tatumjolink/tatumjolink.github.io/index.html",
+    "main.1e4098ab.css.map": "/tatumjolink/tatumjolink.github.io/static/css/main.1e4098ab.css.map",
+    "main.0a43975f.js.map": "/tatumjolink/tatumjolink.github.io/static/js/main.0a43975f.js.map",
+    "453.253ccfac.chunk.js.map": "/tatumjolink/tatumjolink.github.io/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c185868.css",
-    "static/js/main.43fb6135.js"
+    "static/css/main.1e4098ab.css",
+    "static/js/main.0a43975f.js"
   ]
 }
